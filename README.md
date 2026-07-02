@@ -1,5 +1,9 @@
 # 🎡 Spin the Wheel
 
+## 📸 Screenshot
+
+![Spin the Wheel](assets/spin-the-wheel.webp)
+
 An interactive browser-based spin wheel by **Toolsyte** for random selection, giveaways, classroom activities, games, and decision making.
 
 🌐 **Live Demo:** https://toolsyte.com/tools/wheel/spin-the-wheel/
